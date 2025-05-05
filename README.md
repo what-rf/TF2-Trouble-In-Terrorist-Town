@@ -1,4 +1,4 @@
-Isso é uma verão atualizada e traduzida do [Plugin de TTT para TF2 Feito por Almonger.](https://github.com/Almoger/TF2-Trouble-In-Terrorist-Town)
+Isso é uma versão atualizada e traduzida do [Plugin de TTT para TF2 Feito por Almonger.](https://github.com/Almoger/TF2-Trouble-In-Terrorist-Town)
 
 ## Changelog ##
 - Dependências do SendProxy removidas
