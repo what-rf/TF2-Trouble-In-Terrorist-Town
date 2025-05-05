@@ -1,16 +1,12 @@
-This is an updated version of [Almonger's TTT mod for TF2.](https://github.com/Almoger/TF2-Trouble-In-Terrorist-Town)
+Isso é uma verão atualizada e traduzida do [Plugin de TTT para TF2 Feito por Almonger.](https://github.com/Almoger/TF2-Trouble-In-Terrorist-Town)
 
 ## Changelog ##
-- Removed all dependencies related to SendProxy. SendProxy is a extremely outdated extension, and constantly causes servers to crash.
-- Replaced the "Traitor Outline" effect, previously dependent on SendProxy. It has been replaced by a floating red dot above traitor's heads.
-  - The height of the dot can be adjusted manually. The function responsible for it is found inside **setup.sp**.
-- Added several sanity checks.
+- Dependências do SendProxy removidas
+- "Outline" dos traidores substituida por um ponto vermelho brilhante, acima da cabeça dos traídores.
+  - A altura do efeito pode ser alterada. A função responsável por isso está em **setup.sp**
+- Vários logs adicionados, com o intuito de facilitar o debugging do plugin.
 
-## Dependencies ##
+## Dependências ##
 - SourceMod 1.10
 - [TF2Items](https://forums.alliedmods.net/showthread.php?p=1050170)
 - [MoreColors.inc](https://forums.alliedmods.net/showthread.php?t=185016)
-
-## Configuration ##
-Currently there is one configuration file to edit:
-* ``ttt_shop.cfg`` - Edit prices for the shop.
