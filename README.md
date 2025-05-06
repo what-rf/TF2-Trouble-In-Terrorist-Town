@@ -14,3 +14,4 @@ This is an updated version of [Almonger's TTT mod for TF2.](https://github.com/A
 ## Configuration ##
 Currently there is one configuration file to edit:
 * ``ttt_shop.cfg`` - Edit prices for the shop.
+
